@@ -1,3 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background: lightgoldenrodyellow;
+  margin: 20px;
+  background: black;
+  text-align: center;
+  section {
+    height: 100vh;
+    border-radius: 10px;
+    border: 2px solid gray;
+    h1 {
+      color: white;
+    }
+  }
 }
