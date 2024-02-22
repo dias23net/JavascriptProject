@@ -53,7 +53,7 @@
 
 4) Потренироваться и переписать цикл еще двумя способами */
 
-const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
+// const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
 
 const personalMovieDB = {
   count: numberOfFilms,
